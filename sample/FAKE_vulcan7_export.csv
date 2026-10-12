@@ -1,0 +1,13 @@
+Owner Name,First Name,Last Name,Property Address,Property City,Property State,Property Zip,Email 1,Email 2,Email 3,Phone 1,Status
+JOHN & MARY SMITH,JOHN,SMITH,1234 n main st,SCOTTSDALE,AZ,85251,John.Smith@Example.com,jsmith2@example.com,,480-555-0101,Canceled
+"GARCIA, MARIA L",,,  5678   E CAMELBACK RD  UNIT 12b ,phoenix,Arizona,85018-1234,maria.garcia@example.com,,,602-555-0102,Canceled
+SUNSET HOLDINGS LLC,,,910 W 3RD ST,TEMPE,AZ,85281,info@sunsetholdings.example.com,,,480-555-0103,Canceled
+THE OBRIEN FAMILY TRUST,,,22 OCEAN VIEW DR,SAN DIEGO,CA,92109,obrien.trust@example.com,,,619-555-0104,Canceled
+ROBERT MCDONALD JR,ROBERT,MCDONALD JR,77 PALM CANYON DR,PALM SPRINGS,CA,92262,,,,760-555-0105,Canceled
+AL JONES,AL,JONES,15 DESERT LN,MESA,AZ,85201,not-an-email,al.jones@example,,480-555-0106,Canceled
+JOHN SMITH,JOHN,SMITH,1234 N MAIN ST,SCOTTSDALE,AZ,85251,jsmith2@example.com,,,480-555-0101,Canceled
+LISA CHEN,LISA,CHEN,,IRVINE,CA,92618,lisa.chen@example.com,,,949-555-0107,Canceled
+DAVID O'NEIL-PARK ET AL,,,400 S 1ST AVE,PHOENIX,AZ,85003,DAVID.ONEIL@EXAMPLE.COM; d.park@example.com,,,602-555-0108,Canceled
+ESTATE OF HELEN BROOKS,,,8 LAKE SHORE CT,CHANDLER,AZ,85226,brooks.estate@example.com,,,480-555-0109,Canceled
+,,,,,,,,,,,
+KAREN WHITE,KAREN,WHITE,301 ELM ST,FRESNO,CA,937,karen.white@example.com,,,559-555-0110,Canceled

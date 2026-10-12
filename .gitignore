@@ -1,0 +1,15 @@
+# Secrets: never upload
+.env
+
+# Real lead data stays on your computer only
+vulcan7-inbox/*
+!vulcan7-inbox/README.txt
+processed/
+records/
+reports/
+logs/
+
+# Python clutter
+__pycache__/
+*.pyc
+.DS_Store
